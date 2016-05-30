@@ -1,0 +1,2 @@
+jmh:run ViewBenchmarks -wi 3 -w 5s -i 30 -r 10s -f 1 -jvmArgs "-Xmx1G -Xms1G" -foe true
+jmh:run ViewBenchmarks

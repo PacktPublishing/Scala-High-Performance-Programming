@@ -1,0 +1,20 @@
+console
+project chapter6
+console
+compile
+console
+compile
+console
+jmh:run TaskFutureBenchmarks
+compile
+consol
+console
+jmh:run TaskFutureBenchmarks
+jmh:run BlockingFutureBenchmarks
+jmh:run TaskFutureBenchmarks
+jmh:run TransformFutureBenchmarks
+clean
+compile
+jmh:run TaskFutureBenchmarks
+jmh:run TransformFutureBenchmarks
+jmh:run TaskFutureBenchmarks

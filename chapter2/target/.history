@@ -1,0 +1,15 @@
+set javaOptions := Seq("-Xmx1G", "-XX:+UnlockCommercialFeatures", "-XX:+FlightRecorder", "-XX:FlightRecorderOptions=defaultrecording=true,dumponexit=true,dumponexitpath=/tmp/order-book.jfr")
+runMain highperfscala.benchmarks.ThroughputBenchmark resources/historical_data 2000000
+runMain highperfscala.benchmarks.ThroughputBenchmark src/main/resources/historical_data 2000000
+pwd
+runMain highperfscala.benchmarks.ThroughputBenchmark chapter2/src/main/resources/historical_data 2000000
+compile
+runMain highperfscala.benchmarks.IoExample
+set javaOptions := Seq("-Xmx1G", "-XX:+UnlockCommercialFeatures", "-XX:+FlightRecorder", "-XX:FlightRecorderOptions=defaultrecording=true,dumponexit=true,dumponexitpath=/tmp/order-book.jfr")
+run chapter2/src/main/resources/historical_data 2000000
+run chapter2/src/main/resources/historical_data 100000
+run chapter2/src/main/resources/historical_data 25000
+run ~/historical_data 25000
+run historical_data 25000
+run historical_data 100000
+run historical_data 25000

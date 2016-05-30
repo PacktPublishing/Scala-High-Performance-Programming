@@ -1,0 +1,7 @@
+jm
+jmh
+jmh:run
+jmh:run .*LazyValBenchmarks -wi 3 -i 10 -f 1 -wbs 100000 -bs 100000 -jvmArgs "-Xmx1G -Xms1G"
+jmh:run .*LazyValBenchmarks -wi 10 -i 20 -f 1 -wbs 1000000 -bs 1000000 -jvmArgs "-Xmx1G -Xms1G"
+jmh:run
+jmh:run LambdasBenchmarks

@@ -1,0 +1,7 @@
+console
+run test.txt 300
+jmh:run ReturnsBenchmarks
+console
+jmh:run ReturnsBenchmarks
+jmh:run ListVectorBenchmarks
+jmh:run ReturnSeriesFrameBenchmarks
