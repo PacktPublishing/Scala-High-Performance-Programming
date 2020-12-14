@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/scala-high-performance-programming/9781786466044)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/178646604X).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Scala-High-Performance-Programming
 
 ##### Code repository for [Scala-High-Performance-Programming](https://www.packtpub.com/application-development/scala-high-performance-programming?utm_source=GitHub&utm_medium=repo&utm_campaign=9781786466044), published by [PACKT Publishing](https://www.packtpub.com)
