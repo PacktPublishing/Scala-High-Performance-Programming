@@ -10,7 +10,3 @@ You should install Java Development Kit version 8 or higher for your operating s
 * [Scala for Java Developers](https://www.packtpub.com/application-development/scala-java-developers?utm_source=GitHub&utm_medium=repo&utm_campaign=9781783283637)
 * [Scala for Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/scala-machine-learning?utm_source=GitHub&utm_medium=repo&utm_campaign=9781783558742)
 * [Learning Concurrent Programming in Scala](https://www.packtpub.com/application-development/learning-concurrent-programming-scala?utm_source=GitHub&utm_medium=repo&utm_campaign=9781783281411)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781786466044">https://packt.link/free-ebook/9781786466044 </a> </p>
